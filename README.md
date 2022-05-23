@@ -1,5 +1,5 @@
 # freeCodeCamp - Formulário de Pesquisa
-*Read this page in [English]().*
+*Read this page in [English](https://github.com/danieljotasilva/fCC-survey_form/blob/main/README-en.md).*
 
 Página de formulário criada com base no projeto do [freeCodeCamp](https://codepen.io/freeCodeCamp/full/VPaoNP).
 
